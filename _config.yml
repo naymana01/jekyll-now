@@ -6,8 +6,7 @@
 name: Ayman
 
 # Short bio or description (displayed in the header)
-description: i am a 12 year old boy
-
+description: I like trains
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
 #
@@ -20,7 +19,7 @@ footer-links:
   email: 
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github:
   instagram: 
   linkedin:
   pinterest:
